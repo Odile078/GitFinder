@@ -8,7 +8,7 @@ This is an angular application that uses GitHub ApiKey to generate github users 
 ## Author
  Odile Uwimpuhwe
 ## Live site
-(https://odile078.github.io/GitFinder/)
+(https://odile078.github.io/GitFinder/userinfo)
 
 
 ## Development server
@@ -40,7 +40,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 * git clone ```https://github.com/Odile078/GitFinder.git```
 
-* cd Quotes-app
+* cd GitFinder-app
 
 * code . or atom . based on the text editor you have.
 
